@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294240709758",
+    "project_id": "tsf-grip-1",
+    "storage_bucket": "tsf-grip-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294240709758:android:99b34cdfd27a9cdb3e7c2f",
+        "android_client_info": {
+          "package_name": "com.arunesh.tsfsocialui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294240709758-u17prr05v3pgc31o97qdlcdbtq38nst5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arunesh.tsfsocialui",
+            "certificate_hash": "7ed57999a73abe1826e436c29ef7d78999880f6d"
+          }
+        },
+        {
+          "client_id": "294240709758-9jtteub5h783ehlmlkm9jo994rjvqic4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAXDirzuPgkUvYVE-ghe1DBb6JKvWslGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294240709758-9jtteub5h783ehlmlkm9jo994rjvqic4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

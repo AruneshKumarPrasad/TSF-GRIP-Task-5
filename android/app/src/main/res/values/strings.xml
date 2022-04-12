@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    GRIP-TASK-1
+    <string name="app_name">GRIP-TASK-1</string>
+    <string name="facebook_app_id">"Your FB App ID"</string>
+    <string name="fb_login_protocol_scheme">"fb + 'Your FB App ID'"</string>
+    <string name="facebook_client_token">"Your FB Client Token"</string>
+</resources>
